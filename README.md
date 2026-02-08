@@ -1,8 +1,8 @@
 # WeReadExporter-Tampermonkey
 
-微信读书复制：章节与全文一键复制下载（非全自动），支持 Markdown/HTML/TXT。
+WX读书复制：章节与全文一键复制下载（非全自动），支持 Markdown/HTML/TXT。
 
-一个基于 **Tampermonkey / Violentmonkey** 的脚本，用于在 **微信读书（WeRead）网页版**中导出书籍内容。
+一个基于 **Tampermonkey / Violentmonkey** 的脚本，用于在 **WX读书（WeRead）网页版**中导出书籍内容。
 
 支持导出：
 
@@ -13,7 +13,7 @@
 适用于本地保存、归档、学习整理、二次编辑。
 
 
-**微信读书导出、微信读书下载、WeRead Export、微信读书全文导出、WeRead 抓取、微信读书备份**
+**WX读书导出、WX读书下载、WeRead Export、WX读书全文导出、WeRead 抓取、WX读书备份**
 
 # 功能界面
 - 章节面
