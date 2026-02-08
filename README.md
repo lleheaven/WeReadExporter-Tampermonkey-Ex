@@ -1,5 +1,5 @@
 # WeReadExporter-Tampermonkey
-
+ 仅作为验证AI 修改代码能力的实践，请勿传播和作为非法用途。
 WX读书复制：章节与全文一键复制下载（非全自动），支持 Markdown/HTML/TXT。
 
 一个基于 **Tampermonkey / Violentmonkey** 的脚本，用于在 **WX读书（WeRead）网页版**中导出书籍内容。
